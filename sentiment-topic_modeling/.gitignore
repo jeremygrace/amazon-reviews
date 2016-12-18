@@ -1,0 +1,11 @@
+# Zip files
+*.tar.gz
+
+# Jupyter
+*.ipynb_checkpoints
+
+# .py files
+*.pyc
+__pycache__
+
+.DS_Store
